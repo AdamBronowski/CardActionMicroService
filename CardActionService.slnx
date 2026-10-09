@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/CardActionService.csproj" />
+  <Project Path="CardActionService.Tests/CardActionService.Tests.csproj" />
+</Solution>
